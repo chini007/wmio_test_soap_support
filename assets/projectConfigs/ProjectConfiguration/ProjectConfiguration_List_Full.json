@@ -1,0 +1,19 @@
+{
+  "apiVersion": "1.0",
+  "metadata": {
+    "source": "psdev",
+    "project": "fl764df99f0f2d03cd11f0fe",
+    "generatedOn": 1792681023673
+  },
+  "configurations": {
+    "packages": [],
+    "variables": [],
+    "connections": [],
+    "certificates": [],
+    "servicesSchedule": []
+  },
+  "globals": {
+    "alertRules": [],
+    "versionControlAccounts": []
+  }
+}
