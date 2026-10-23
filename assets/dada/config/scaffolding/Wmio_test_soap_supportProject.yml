@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Wmio_test_soap_supportProject
+  gitServerName: insrsa_github
+  gitUrl: https://github.com/chini007
+  gitUsername: chini007
+  gitBranch: dev

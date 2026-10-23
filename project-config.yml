@@ -1,0 +1,9 @@
+project:
+  project-id: fl764df99f0f2d03cd11f0fe
+  project-name: wmio_test_soap_support
+  external-git:
+    enabled: true
+    repository: chini007/wmio_test_soap_supportProject
+    api-repository-path: chini007/Wmio_test_soap_supportProject
+    branch: dev
+    account-alias: insrsa_github
